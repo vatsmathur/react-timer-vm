@@ -115,7 +115,7 @@ const App = () => (
       <p className="lead">Simple timer turned into React Hooks.</p>
       <p>
         <a
-          href="https://github.com/thibaultboursier/use-timer"
+          href="https://github.com/vatsmathur/react-timer-vm"
           target="blank"
           title="Link to GitHub project"
         >
