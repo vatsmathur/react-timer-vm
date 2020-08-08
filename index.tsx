@@ -119,7 +119,7 @@ const App = () => (
           target="blank"
           title="Link to GitHub project"
         >
-          https://github.com/thibaultboursier/use-timer
+          https://github.com/vatsmathur/react-timer-vm
         </a>
       </p>
     </div>
